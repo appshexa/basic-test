@@ -54,6 +54,6 @@
             </div>
         </form>
 
-        <div class="bg-sky-800/50">testing</div>
+        <div class="bg-emerald-300">testing</div>
     </x-auth-card>
 </x-guest-layout>
